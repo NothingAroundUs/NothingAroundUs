@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer focused on de
 
 Check out my repositories to see some of the projects I've worked on:
 
-- Fokir: A responsive portofilio website – [Link to repo](https://github.com/NothingAroundUs/Fokir)
+- Fokir: A responsive portofilio website – [Link to repo](https://github.com/NothingAroundUs/Fokir) - [Demo](https://nothingaroundus.github.io/Fokir/)
 
 - Mealify: Coming soon – N/A
 
