@@ -32,4 +32,4 @@ Check out my repositories to see some of the projects I've worked on:
 ## 🚀 Let's Connect:
 I'm actively looking for new opportunities and collaborations!
 
-Feel free to reach out on [LinkedIn] (https://www.linkedin.com/in/hussein-taha-b43ba32a4/?trk=opento_sprofile_topcard) or email me at [husseintaha756@gmail.com](mailto:husseintaha756@gmail.com). You can also follow me here on GitHub for updates on my latest projects!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/hussein-taha-b43ba32a4/?trk=opento_sprofile_topcard) or email me at [husseintaha756@gmail.com](mailto:husseintaha756@gmail.com). You can also follow me here on GitHub for updates on my latest projects!
