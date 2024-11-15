@@ -1,35 +1,56 @@
-# Hi, I'm Hussein Taha! 👋
+# 👋 Hi, I'm Hussein Taha!
 
-## Front-End Web Developer | Building Modern, Responsive Websites
-Welcome to my GitHub profile! I'm a passionate front-end developer focused on delivering high-quality, user-centric web applications. I enjoy turning complex ideas into visually appealing and functional user experiences.
+## 🌟 Front-End Web Developer | Crafting Modern, Responsive Websites
+Welcome to my GitHub profile! I'm a passionate front-end developer who loves transforming ideas into visually stunning, user-friendly web experiences. My focus is on creating clean, high-quality, and accessible designs.
 
-## 🛠️ Skills & Technologies:
-- Languages: HTML, CSS, JavaScript (ES6+)
+---
 
-- Frameworks & Libraries: Bootstrap, Tailwind CSS
+## 🛠️ Skills & Technologies
+### **Languages**
+- **HTML** | **CSS** | **JavaScript (ES6+)**
 
-- Tools: Git, GitHub, VS Code, Webpack, Figma
+### **Frameworks & Libraries**
+- **Bootstrap** | **Tailwind CSS**
 
-- Responsive Design: Media Queries, Flexbox, CSS Grid, Bootstrap Grid
+### **Tools**
+- **Git** | **GitHub** | **VS Code** | **Webpack** | **Figma**
 
-- Version Control: Git & GitHub collaboration
+### **Responsive Design**
+- Media Queries | Flexbox | CSS Grid | Bootstrap Grid
 
-## 🌱 What I'm learning:
-- TypeScript
+### **Version Control**
+- Git & GitHub Collaboration
 
-- Back-end Development
+---
 
-- Accessibility best practices (a11y)
+## 🌱 Currently Learning
+- **TypeScript** 
+- **Back-End Development**
+- **Accessibility Best Practices (a11y)**
 
-## 📈 Projects:
+---
 
-Check out my repositories to see some of the projects I've worked on:
+## 📂 Featured Projects
+✨ Explore some of my recent work:  
 
-- Fokir: A responsive portofilio website – [Link to repo](https://github.com/NothingAroundUs/Fokir) - [Demo](https://nothingaroundus.github.io/Fokir/)
+### [🌐 Fokir](https://github.com/NothingAroundUs/Fokir)  
+*A responsive portfolio website*  
+[Live Demo](https://nothingaroundus.github.io/Fokir/)  
 
-- Mealify: The perfect chefs page – [Link to repo](https://github.com/NothingAroundUs/Mealify) - [Demo](https://nothingaroundus.github.io/Mealift/)
+### [🍴 Mealify](https://github.com/NothingAroundUs/Mealify)  
+*The perfect chef’s page*  
+[Live Demo](https://nothingaroundus.github.io/Mealift/)  
 
-## 🚀 Let's Connect:
-I'm actively looking for new opportunities and collaborations!
+---
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/hussein-taha-b43ba32a4/?trk=opento_sprofile_topcard) or email me at [husseintaha756@gmail.com](mailto:husseintaha756@gmail.com). You can also follow me here on GitHub for updates on my latest projects!
+## 🚀 Let's Connect!
+I'm actively seeking new opportunities and collaborations!  
+
+📧 Email: [husseintaha756@gmail.com](mailto:husseintaha756@gmail.com)  
+💼 LinkedIn: [Hussein Taha](https://www.linkedin.com/in/hussein-taha-b43ba32a4/?trk=opento_sprofile_topcard)  
+
+Follow me here on **GitHub** to stay updated on my latest projects!  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=NothingAroundUs&&style=flat-square)
