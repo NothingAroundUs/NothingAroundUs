@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer focused on de
 
 - Tools: Git, GitHub, VS Code, Webpack, Figma
 
-- Responsive Design: Media Queries, Flexbox, CSS Grid
+- Responsive Design: Media Queries, Flexbox, CSS Grid, Bootstrap Grid
 
 - Version Control: Git & GitHub collaboration
 
