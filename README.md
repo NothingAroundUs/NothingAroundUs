@@ -27,7 +27,7 @@ Check out my repositories to see some of the projects I've worked on:
 
 - Fokir: A responsive portofilio website – [Link to repo](https://github.com/NothingAroundUs/Fokir) - [Demo](https://nothingaroundus.github.io/Fokir/)
 
-- Mealify: Coming soon – N/A
+- Mealify: The perfect chefs page – [Link to repo](https://github.com/NothingAroundUs/Mealify) - [Demo](https://nothingaroundus.github.io/Mealift/)
 
 ## 🚀 Let's Connect:
 I'm actively looking for new opportunities and collaborations!
