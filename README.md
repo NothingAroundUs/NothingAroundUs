@@ -43,7 +43,8 @@ Welcome to my GitHub profile! I'm a passionate front-end developer who loves tra
 
 ### [💼 Devfolio](https://github.com/NothingAroundUs/Devfolio)  
 *A responsive bootstrap portoflio for developers*  
-[Live Demo](https://nothingaroundus.github.io/Devfolio/)  
+[Live Demo](https://nothingaroundus.github.io/Devfolio/)
+
 
 ---
 
