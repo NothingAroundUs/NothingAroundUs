@@ -42,9 +42,12 @@ Welcome to my GitHub profile! I'm a passionate front-end developer who loves tra
 [Live Demo](https://nothingaroundus.github.io/Mealift/)  
 
 ### [💼 Devfolio](https://github.com/NothingAroundUs/Devfolio)  
-*A responsive bootstrap portoflio for developers*  
+*A responsive bootstrap portfolio for developers*  
 [Live Demo](https://nothingaroundus.github.io/Devfolio/)
 
+### [📜 Daniels](https://github.com/NothingAroundUs/Daniels)  
+*A modern landing page template*  
+[Live Demo](https://nothingaroundus.github.io/Daniels/)
 
 ---
 
