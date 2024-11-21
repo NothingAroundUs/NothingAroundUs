@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer who loves tra
 
 ### [🍴 Mealify](https://github.com/NothingAroundUs/Mealify)  
 *The perfect chef’s page*  
-[Live Demo](https://nothingaroundus.github.io/Mealift/)  
+[Live Demo](https://nothingaroundus.github.io/Mealify/)  
 
 ### [💼 Devfolio](https://github.com/NothingAroundUs/Devfolio)  
 *A responsive bootstrap portfolio for developers*  
