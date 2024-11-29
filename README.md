@@ -27,6 +27,8 @@ Welcome to my GitHub profile! I'm a passionate front-end developer who loves tra
 - **TypeScript** 
 - **Back-End Development**
 - **Accessibility Best Practices (a11y)**
+- **Jquery**
+- **Angular.js**
 
 ---
 
