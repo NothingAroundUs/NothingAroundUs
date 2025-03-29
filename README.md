@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a passionate front-end developer who loves tra
 
 ## 🛠️ Skills & Technologies
 ### **Languages**
-- **HTML** | **CSS** | **JavaScript (ES6+)**
+- **HTML** | **CSS** | **JavaScript (ES6+)** | **TypeScript**
 
 ### **Frameworks & Libraries**
-- **Bootstrap** | **Tailwind CSS**
+- **Bootstrap** | **Tailwind CSS** | **Angular.js** | **JQuary**
 
 ### **Tools**
 - **Git** | **GitHub** | **VS Code** | **Webpack** | **Figma**
@@ -24,11 +24,9 @@ Welcome to my GitHub profile! I'm a passionate front-end developer who loves tra
 ---
 
 ## 🌱 Currently Learning
-- **TypeScript** 
 - **Back-End Development**
 - **Accessibility Best Practices (a11y)**
 - **Jquery**
-- **Angular.js**
 
 ---
 
